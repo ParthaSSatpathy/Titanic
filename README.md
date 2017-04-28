@@ -1,8 +1,12 @@
 # Titanic
 Kaggle Titanic Project
+
 Kaggle Score: 0.81818
+
 Kaggle Rank: 278
+
 Language: Python
+
 Link: https://www.kaggle.com/c/titanic
 
 Worked and Learned:
